@@ -11,3 +11,6 @@ rel/example_project
 .log
 .prefs
 .metadata
+.project
+.settings
+erlide.log
