@@ -1,0 +1,30 @@
+12:06:03,073 I: (ErlangCore.java:63) : Starting CORE Thread[main,6,main]
+12:06:03,090 I: (ErlangCore.java:78) : *** starting Erlide v0.33.4.201702122102 (core=0.32.4.201702122102) (model api=0.32.1.201702122102) *** (Cp1252) ui
+12:06:03,112 I: (ErlangCore.java:85) : Started CORE
+12:06:03,112 F: (ErlangPlugin.java:89) : Core started
+12:06:04,143 F: (ErlangHostnameRetriever.java:42) : Erlang long hostname: Sonic.lan
+12:06:07,074 F: (ErlangHostnameRetriever.java:42) : Erlang short hostname: Sonic
+12:06:07,343 F: (HostnameChecker.java:205) : Detected:: 'Sonic' && '192.168.0.111'
+12:06:07,359 F: (BackendActivator.java:25) : Backend plugin started
+12:06:07,442 I: (ErlideUIPlugin.java:121) : Starting UI Thread[main,6,main]
+12:06:07,459 F: (ModelActivator.java:19) : Starting Erlang model api
+12:06:07,490 F: (BackendFactory.java:40) : Create ide backend 19.2.0
+12:06:07,490 F: (BackendFactory.java:54) : Create backend 7bb42_Ingrid_195f02_erlide
+12:06:07,541 F: (OtpNodeProxy.java:426) : START node :> ["c:\program files\erl8.2/bin/erl", -name, 7bb42_Ingrid_195f02_erlide@192.168.0.111, -setcookie, erlide] *** C:\Users\Ingrid\Documents\lab3
+12:06:07,541 F: (OtpNodeProxy.java:306) : Runtime 7bb42_Ingrid_195f02_erlide@192.168.0.111 starting
+12:06:07,544 F: (OtpNodeProxy.java:213) : 7bb42_Ingrid_195f02_erlide@192.168.0.111: waiting connection to peer... 
+12:06:07,960 F: (OtpNodeProxy.java:220) : connected!
+12:06:08,060 F: (OtpNodeProxy.java:311) : Runtime 7bb42_Ingrid_195f02_erlide@192.168.0.111 running
+12:06:08,175 F: (LogEventHandler.java:27) : info: {"Monitoring java node",'jerlide_a195f38@192.168.0.111'}
+12:06:08,175 F: (LogEventHandler.java:27) : info: {"Start monitor process: ",10000000,50000000}
+12:06:08,592 F: (ModelActivator.java:30) : Started model api
+12:06:08,607 I: (ErlideUIPlugin.java:142) : Started UI
+12:06:17,233 F: (BackendFactory.java:47) : Create build backend 19
+12:06:17,234 F: (BackendFactory.java:54) : Create backend 19_7bb42_Ingrid_198511
+12:06:17,234 F: (OtpNodeProxy.java:306) : Runtime 19_7bb42_Ingrid_198511@192.168.0.111 starting
+12:06:17,235 F: (OtpNodeProxy.java:426) : START node :> ["c:\program files\erl8.2/bin/erl", -name, 19_7bb42_Ingrid_198511@192.168.0.111, -setcookie, erlide] *** C:\Users\Ingrid\Documents\lab3
+12:06:17,238 F: (OtpNodeProxy.java:213) : 19_7bb42_Ingrid_198511@192.168.0.111: waiting connection to peer... 
+12:06:17,645 F: (OtpNodeProxy.java:220) : connected!
+12:06:17,764 F: (OtpNodeProxy.java:311) : Runtime 19_7bb42_Ingrid_198511@192.168.0.111 running
+12:06:17,848 F: (LogEventHandler.java:27) : info: {"Monitoring java node",'jerlide_a198515@192.168.0.111'}
+12:06:17,848 F: (LogEventHandler.java:27) : info: {"Start monitor process: ",10000000,50000000}
