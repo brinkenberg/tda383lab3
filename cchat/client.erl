@@ -49,6 +49,7 @@ handle(St, {connect, Server}) ->
 
 %% Disconnect from server
 handle(St, disconnect) ->
+	%% 
     % {reply, ok, St} ;
     {reply, {error, not_implemented, "Not implemented"}, St} ;
 	
